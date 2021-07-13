@@ -1,1 +1,1 @@
-# Junior-design-project#SmartHealthCareMonitoringSyestem based on IoT
+#SmartHealthCareMonitoringSyestem based on IoT
